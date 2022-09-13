@@ -1,0 +1,13 @@
+.row{
+    justify-content: center;
+}
+h1{
+    justify-content: center;
+    text-align: center;
+    width: auto;
+    background-color: black;
+    color: white;
+}
+body{
+    background: linear-gradient(to top,red , aqua);
+}
